@@ -6,7 +6,9 @@ The purpose of this project is to develop a multiclass classification model on w
 The main goal of this project is to distinguish balance sheet metrics based on the hand they play in bank failures in order to identify potential failures.
 
 dependencies:
+
 python=3.9.12
+
 matplotlib=3.5.1
 pandas=1.4.2
 scikit-learn=1.0.2
