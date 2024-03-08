@@ -1,0 +1,82 @@
+﻿Column Name
+	Description
+	Fund Code
+	Code assigned to the fund for identification purposes.
+	Receivership
+	Information about the receivership of the failed bank.
+	Year
+	The year in which the receivership occurred.
+	Quarter
+	The quarter in which the receivership occurred.
+	Failure Date
+	The specific date on which the bank failed.
+	Cash and Investments
+	Amount of cash and investments held by the failed bank.
+	Due from FDIC Corp and Receivables
+	Amount due from the FDIC corporation and other receivables.
+	Assets in Liquidation
+	Value of assets that are being liquidated.
+	Estimated Loss on Assets in Liquidation(1)
+	Approximate loss expected on the assets being liquidated.
+	Total Assets
+	The total value of all assets held by the failed bank.
+	Administrative Liabilities
+	Liabilities incurred by the receivership for administrative purposes.
+	FDIC Subrogated Deposit Claim
+	Claims filed by the FDIC on behalf of insured depositors.
+	Uninsured Deposit Claims
+	Claims filed by depositors that exceed the insured limit.
+	Other Claimant Liabilities
+	Liabilities arising from claims filed by parties other than depositors.
+	Unproven Claims
+	Claims that have been filed but are not yet proven or accepted.
+	Total Liabilities(2)
+	The total amount of all liabilities incurred by the receivership.
+	Net Worth (Deficit)
+	The difference between total assets and total liabilities.
+	Total Liabilities and Net Worth
+	The sum of total liabilities and net worth.
+	FDIC Subrogated Claim
+	The amount claimed by the FDIC on behalf of insured depositors.
+	FDIC Subrogated Claim %
+	The percentage of the FDIC subrogated claim in relation to total liabilities.
+	Uninsured Depositors
+	The total amount claimed by uninsured depositors.
+	Uninsured Depositors %
+	The percentage of uninsured depositor claims in relation to total liabilities.
+	Subtotal - Proven Deposit Claims
+	The total value of proven deposit claims.
+	Subtotal - Proven Deposit Claims %
+	The percentage of proven deposit claims in relation to total liabilities.
+	Dividends Paid to Date
+	The total amount of dividends paid to date to depositors.
+	Dividends Paid to Date %
+	The percentage of dividends paid to date in relation to total liabilities.
+	Total Unpaid Deposit Claims
+	The total amount of deposit claims that remain unpaid.
+	Total Unpaid Deposit Claims %
+	The percentage of total unpaid deposit claims in relation to total liabilities.
+	General Creditor
+	The total amount claimed by general creditors.
+	General Creditor %
+	The percentage of general creditor claims in relation to total liabilities.
+	Senior Debt Holders
+	The total amount claimed by senior debt holders.
+	Senior Debt Holders %
+	The percentage of senior debt holder claims in relation to total liabilities.
+	Subordinated Debt Holders
+	The total amount claimed by subordinated debt holders.
+	Subordinated Debt Holders %
+	The percentage of subordinated debt holder claims in relation to total liabilities.
+	Subtotal - Other Claimants
+	The total value of claims filed by other claimants.
+	Subtotal - Other Claimants %
+	The percentage of claims filed by other claimants in relation to total liabilities.
+	Dividends Paid to Date - Other Claimants
+	The total amount of dividends paid to date to other claimants.
+	Dividends Paid to Date - Other Claimants %
+	The percentage of dividends paid to date to other claimants in relation to total liabilities.
+	Total Unpaid Other Claimants
+	The total amount of claims by other claimants that remain unpaid.
+	Total Unpaid Other Claimants %
+	The percentage of total unpaid claims by other claimants in relation to total liabilities
